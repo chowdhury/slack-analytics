@@ -7,7 +7,7 @@
 define('GOOGLE_APPLICATION_NAME', 
 	'Allison Road Game Analytics');
 define('GOOGLE_CLIENT_EMAIL', 
-	'nikolai@lilithltd.com');
+	'nikolai.ishan@gmail.com');
 define('GOOGLE_USER_EMAIL', 
 	'nikolai.ishan@gmail.com');
 
